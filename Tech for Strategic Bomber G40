@@ -1,0 +1,247 @@
+                         "Global 40 HouseRules"
+			 
+Game starts with 2nd edition OOB rules,techs and units, with the exception of Sierra Leone and Yukon Territory which are British controlled. A player named "Changer" will go first. His purpose is to activate certain technologies so the game may begin with them. There are 13 of these techs. Each one has "ChangerMustActivate" at the end of them.
+
+Changer has only 1 turn, so if techs are not activated then, you will be unable to activate them later. 
+
+Excluding the OOB techs, Germany activates the remaining techs for all players, except for those that end in "GiveToAll". "GiveToAll" Techs must be given to each player in order for them to have the tech ability.
+Germany needs to activate techs at the start of their turn in order for them to activate that turn. Activated after their turn starts and techs won't activate until their next turn. 
+
+Here is the Tech Tree for "Global 40 HouseRules" minus the OOB techs:
+                         "Changer"      
+         1) "AttackOCost5Bomber_ChangerMustActivate"                           
+             Bombers are now a A0 D0 M6 +1 w/AB C5 unit. They may perform SBR attacks only. They do not participate in the Air Battle with interceptors. They do 1-6 damage. They no longer receive a +2 to an SBR attack.
+	     
+         2) "SubsCanEvadeDestroyers_ChangerMustActivate"                                 
+             Destroyers no longer block Subs or the Sub's "First Strike" capability. They are now a A1 D1 M2 +1 w/NB C5 unit. They also have 1 preemptive "ASA" (Anti-Sub Attack) shot.
+
+When attacking a Sub, the Destroyer will fire a one time "ASA1" (hits at 1) shot. If successful the Sub is immediately destroyed and may not return fire. If the Sub survives, it may then submerge or take it's normal "First Strike" shot.
+
+The Destoryer also has 1 preemptive "ASD" (Anti-Sub Defense) shot. Works the same as "ASA" only on defense. So when a sub attacks a Destoyer or any other unit that has "ASD" capability, it must first survive the "ASD" attack before conducting it's "First Strike" attack.
+Destroyer ASA/D shots will stack. Meaning if their is only 1 sub and multiple Destroyers, the sub will only undergo as many ASA/D shots as there are Destroyers.
+	
+Subs remain A2 D1 M2 +1 w/NB C6. Subs cannot be blocked by any Naval Vessel. Subs are now susceptible to attack from Fighters and Tac Bombers. When attacking naval units who have air units present (no Bombers), Subs will undergo counterfire from the air units regardless of the outcome of their "First Strike". 
+All other rules regarding Subs are unchanged.
+
+In addition to it's normal unit stats, Tac Bombers now have ASA1 ASD1 each.
+As mentioned above, it now fires normally at subs without a Destroyer present. 
+
+         3) "TacticalBomberCost10_ChangerMustActivate"
+             The price of Tactical Bombers are reduced to C10.
+
+         4) "FactoryLimited_ChangerMustActivate"
+             Air and Naval Bases now cost 12. All captured and new construction minor factories may only produce artillery, AAguns, armor, mech infantry, mobile infantry, marines, elite and infantry. If a NB is present you may also build subs, transports, escort carriers and DDs. If a AB is present you may also build fighters and TBs.
+
+             ABs are required to build fighters, TBs and bombers. Bombers may only be built in factories on originally owned territories that also has an AB. In addition, Bombers may not be built in the following territories: Kwangtung:Egypt:Norway:Alaska:West India:Korea. May not build at a AB with 3 or more damage.
+
+Note: You may not place new fighers on CVs. All air units may only be placed in the TTy that contains an AB as well as a the correct factory.
+
+             NBs are required to build all naval units. BBs, CVs and CAs may only be built in TTs with originally owned starting factories. These TTs must also have a NB. May not build at a NB with 3 or more damage.
+
+            New Zealand receives a Minor Factory to allow ANZAC Air builds. Quebec receives a NB to allow for naval builds. The Central United Staes receives a NB to allow for additional pre War naval builds.
+
+This addresses Capital Ships and Bombers being built in newly conquered territories. It should also be noted that UK may only build Air Units in UK at game start. This makes the UK AB a prime Axis target.
+
+         5) "TransportC8_ChangerMustActivate"
+             The Transport is now A0 D1 M2 +1 w/NB C8. May participate in combat and be taken as casualty.
+
+         6) "Escort_Carrier_ChangerMustActivate"
+             Adds The Escort Carrier. Escort CV is a A0 D1 M2 +1 w/NB C9 unit. It also has the Destroyers Sub blocking ability. It can carry 1 Fighter or Tactical bomber. 
+
+If "SubsCanEvadeDestroyers_ChangerMustActivate" has been activated, it becomes a A1 D1 M2 +1 w/NB C9 with 1, ASA1 ASD1, each. It's ASA/D shots stack same as Destroyers. It can carry 1 Fighter or Tactical bomber.
+
+         7) "AAGunC4_ChangerMustActivate"
+             Changes the AAGun into a A0 D1 M1 C4 unit. It has 2AA shots. May not fire more than 1 shot per plane. Blocks movement and can conquer/capture Territories and Infrastructure.
+
+         8) "FlyingTiger_ChangerMustActivate"
+             Changes the US Fighter at the Philippines into a "FlyingTiger" unit. This unit may move to Dutch or UK Pacific territories during it's ncm. When ending it's turn in a Chinese controlled TTy, it will become a Chinese unit. May not enter Chinese TTys unless US is at war with Japan. Has same abilities as Fighter.
+
+         9) "GetCapitalCashOnce_ChangerMustActivate"
+             This allows a country's PUs to be captured the first time their capital is conquered. Additional conquests will result in their PUs being destroyed.
+
+         10) "AdditionalVictoryCitiesWorthPUs_ChangerMustActivate"
+              All Victory Cities are now worth 1 PU to the controlling player. In addition to the OOB VCs, the following have been added:Iraq:Poland:Germany:Southern Italy:Szechwan:Alaska:Malaya:Amur:New Zealand:British Columbia:New Britain:Yakut S.S.R.:Union of South Africa:Iceland:Norway:Tunisia:Romania:Libya:Caroline Islands:Manchuria:Ukraine:Greece:Archangel:French West Africa
+
+         11) "NormandyTurnsProAllied_ChangerMustActivate"
+              If France and Southern France are Axis contolled and there are no French units in Normandy Bordeaux, Normandy Bordeaux will turn into a Pro-Allied Neutral at the end of France's turn. 
+
+         12) "Redesign National Objectives_ChangerMustActivate"
+              Currently does nothing.
+
+         13) "Sphere of Influence_ChangerMustActivate"
+              When Sphere Of Influence tech is activated, Germany will receive a minus 10 PU penalty if Japanese units are in any German controlled territories. 
+Russia will receive a minus 10 PU penalty if any Allied units are in any Russian controlled territories. 
+Japan will receive a minus 10 PU penalty if any German or Italian units are in any Japanese controlled territories. 
+America will receive a minus 10 PU penalty if any Russian units are in any American controlled territories.
+UK will receive a minus 10 PU penalty if any Russian units are in any British controlled territories.
+UK_Pacific will receive a minus 10 PU penalty if any Russian units are in any UK_Pacific controlled territories.
+Italy will receive a minus 10 PU penalty if any Japanese units are in any Italian controlled territories.
+ANZAC will receive a minus 10 PU penalty if any Russian units are in any ANZAC controlled territories.
+France will receive a minus 10 PU penalty if any Russian units are in any French controlled territories. 
+
+If a country has fewer than 10 PUs they will lose no PUs. This is not intended and needs to be player enforced.
+               
+
+   	                     Germans
+                             Category
+                        "San Francisco Rules"
+
+          1) "UpGun_BomberA0C5_GiveToAll"
+             If "AttackOCost5Bomber_ChangerMustActivate" has been activated, this tech will give Bombers A1 in Air Battles and Fighters A2 D2. This tech must be activated by each player in order for them to receive the tech ability.
+
+If this tech is activated without activating "AttackOCost5Bomber_ChangerMustActivate", Bombers will have A2 in Air Battles. Fighters will have A2 D2. This will be changed in the future so it's not possible. 
+
+         2) Naval_M3_GiveToAll
+	    Gives +1 Movement to Cruisers and Transports
+            This tech must be activated by each player in order for them to receive the tech ability.
+
+         3) "AirfieldM2"
+             Airfields now give +2 Movement to Bombers and Fighters. It is reccomended to only use the additional +1 Movement for fighters when they are escorting Bombers on SBR missions. This is Player Enforced.
+
+         
+
+                             
+                                Category
+                               "Redesign"
+
+         1) "PacificIslandAndPU_Change"
+	    Gives all valueless Pacific Islands 1 PU when Japan is at war with any of the Western Allies. Must be at war to receive bonus.
+	    Also gives 1 PU to the following: Malta:Crete:Cyprus:Gibraltar:Alexandria:Tobruk:Sardinia:Sicily:Nenetsia:Vyborg:Bessarabia:Turkmenistan:Iceland:Eastern Persia.
+	    Removes 1 PU from:Ontario:Rhodesia:Alberta Saskatchewan Manitoba.
+	    Japans "Strategic_Defense_Perimeter" National Objective is replaced by "Strategic_Islands". They now receive 3 PUs for control of "Midway:Wake Island:Guam" when at war with ANY of the Western Allies. 
+            The USA also acquires the "Strategic_Islands" National Objective when at war with Japan.
+	    When at war with each other, Japan and the Western Allies will receive 2 PUs every time they conquer a 2 PU value Island or less (excepting the Philippines).
+	    The Western Allies will receive 2 PUs every time they take control of Celebes,Sumatra,Borneo,Java or the Philippines from Japan. The Japanese will receive 2 PUs every time they take control of Celebes,Sumatra,Borneo,Java or the Philippines after round 3.
+
+           With originally controlled territories, this gives Japan an additional 5 PUs, America 6 PUs, UK Pacific 4 PUs and ANZAC 3 PUs.
+	   Russia will receive an additional 4 PUs, Italy 3 PUs and UK 1 PU.
+
+Strategically, the Axis can conquer Bessarabia and Vyborg quite easily from Russia for a previously unavailable 2 PU boost. UK Pacific may activate Eastern Persia for an easy 1 PU.
+           Japan can become quite strong, quite fast using this modification so it is suggested to counter that with some Chinese modifications, which will be available in the same tech category.
+	   It is suggested to use the "ConvoyAndBlockade" tech, which is explained next, in conjuction with the "PacificIslandAndPU_Change" tech.
+	   
+         2) "ConvoyAndBlockade"
+	     This adds Blockade zones to Sea Zones:64,86,91,103,118 and 123. In addition to interdicting Land Territory PUs, Blockade Zones also interdict Sea Zones with PU value when adjacent to said Zones.
+	    It also adds "Convoy Zones" to Sea Zones:7,77,104,117,123 and 124. Convoy zones allow interdiction of Land Territory PUs. They are as follows:
+	    Sea Zone 7:Buryatia and Sakha. 2 PUs total. Russian owned.
+	    Sea Zone 77:Caucasus. 2 PUs total. Russian owned.
+	    Sea Zone 88:West Indies. 2 PUs total. American owned.
+	    Sea Zone 90:Southeast Mexico. 2 PUs total. American owned.
+	    Sea Zone 102:Central America. 2 PUs total. American owned.
+	    Sea Zone 104:Gold Coast and Nigeria. 2 PUS total. British owned.
+	    Sea Zone 117:Quebec. 2 PUs total. British owned.
+	    Sea Zone 123:New Brunswick Nova Scotia and Iceland. 2 PUs total. British owned.
+	    Sea Zone 124:Nenetsia and Vologda. 2 PUs total. Russian owned.
+
+            Sea Zones 104 and 117 are also worth 1 PU.
+	    Sea Zones 88,90 and 102 are worth 2 PUs.
+	    Sea Zones with PU value do not have their PUs transferred to an enemy, even when that enemy controls the Sea Zone. Sea Zones with PU value are not collected if enemy controlled.
+
+            Land Territory changes are:
+	    Eastern United States: 12 PUs
+	    Central United States: 10 PUs
+	    Western United States: 12 PUs
+	    Mexico: 1 PU
+	    Southeast Mexico: 2 PUs
+	    Central America: 2 PUs
+	    West Indies: 2 PUs
+
+            You or your Ally must control the Convoy Zone at the "Collect PU" phase of your turn to receive the PUs from the corresponding Land Territories.
+	    Submerged Subs do not control Convoy Zones. If there is a Sub controlling a Convoy Zone and it is attacked and survives the attack by submerging, control of the Convoy Zone will revert to the Original Owner.
+	    The UK has their "British_Original"(controls all original territories) National Objective reduced to 3 PUs.
+
+Strategically, certain Sea Zones(91,103) may inflict substantial damage. Sea Zones 104 and 117 add an additional 2 PUs in income for the UK.
+            
+         3) "RussianNationalObjectives"
+             Reduces Russia's Sea Zone 125 Lend Lease Objective to 2 PUs. Also reduces their "Spread of Communism" Objective to 2 PUs per Territory and limits those Territories to originally German, Italian, or Pro-Axis Euoropean neutral territories.
+These Territories are:"Bulgaria:Finland:Greater Southern Germany:Slovakia Hungary:Western Germany:Romania:Poland:Germany:Norway:Denmark:Holland Belgium:Northern Italy:Southern Italy"
+
+	     Adds the following NOs to Russia:
+"The Great Patriotic War" Theme:Soviet Sphere of Influence.
+3 PUs if no Allied units in any original Russian TTs.
+
+"The Northern Trace" Theme:Acess to Allied Lend-Lesae via the Northwest Staging Route.2 PUs if SZ 5 has no enemy warships (all sea units except transports), Amur is Russian controlled and there are no Allied units in any original Russian TTs.
+
+"Persian Corridor" Theme:Acess to Allied Lend-Lesae via the Trans-Iranian Supply Route. 2 PUs if SZ 80 has no enemy warships (all sea units except transports), Persia is Allied controlled and there are no allied units in any originally Russian territories.
+
+An increase of +2 PUs per Lend Lease Route goes into effect if Russia is at war and Japan declares war on Russia. Allied units may be present in Russia.
+	     
+A Russian Destroyer is added to Sea Zone 5. It must remain adjacent to original Soviet territory while the Soviet Union is neutral to Japan.
+
+              4) "ChineseMilitia"
+                  Adds the "Militia" unit for China. A0 D1 M1 C2. This helps China produce a few more units and allows them to purchase when they only have 2 PUs. Helps slow Japan down a little.
+
+              5) "PrimitiveTerrain"
+                 Places a "Primitive" image in basically all of Asia, excepting most Costal Territories, and up to the Ural Mountains in Russia. When starting in a primitive TTy, M2 units have their movement reduced to 1. Does not affect aircraft.
+
+This helps slow Japan's push through China and discourages early Soviet Far East invasions.
+        
+              
+                                 Category
+                         "New Units and Unit Changes"
+			 
+              1) "BBandCA_AA"
+	          Battleships and Cruisers now have 2 AA shots. They behave the same as regular AAGuns.
+
+              2) "Mobile_Artillery"
+	          Adds a Mobile Artillery Unit. A2 D2 +1D w/tank, C5. Gives +1A to 1 Infantry or Mech Infantry. May blitz. Does not provide blitz ability to other units.
+
++1D w/tank represents their use as anti-tank weapons and to prevent tank buys from being adversely affected.
+
+              3) "MilitiaForAll"
+	          Adds the Militia Unit to all players. A Player may have no more than 8 Militia at any one time. May only be placed in originally owned Territories.
+
+This is to prevent spammage. It is also suggested to wait until Round 3 before activation. This represents full manpower mobilization and prevents an early UK stack to prevent Sea Lion. "Chinese Militia" is still suggested for Round 1 activation. If not activated, China will also gain the ability to purchase Militia when "MilitiaForAll" is activated.
+
+
+                                  Category
+			 "New Units and Other Changes"
+
+                 1) "Marines"
+		     Marines are a A1 D1 M1 C3 Unit. They receive +1A when making an amphibous attack. They may be transported into battle by Battleships on a 1:1 basis.
+
+When "Elite_GiveToAll" tech is activated Marines will gain the ability to be transported by Cruisers. This is not intended and is player enforced.
+
+                 2) "Escorts_Interceptors_A2D2_GiveToAll"
+		     Escort Fighters are now A2 Interceptors D2. This tech must be activated by each player in order for them to receive the tech ability.
+
+                 3) "Elite_GiveToAll"
+                     Adds the "Elite" unit. Elite is a A2 D2 M1 +1M w/tank (can blitz with tank), C5 unit. It may be transported by Cruisers and Battleships on a 1:1 basis. It may be Air Transported into combat or ncm by Air transports on a 1:1 basis if "AirTransport_GiveToAll" tech is activated.
+
+It receives No combat bonuses from other units.
+
+                 4) "AirTransport_GiveToAll"
+                     Adds the Air Transport unit. Air Transport is a A0 D0 M5 +1 w/AB C7 unit. It may transport Elite units in either combat move or ncm on a 1:1 basis. May be taken as casualty.
+
+                 5) "CloseAirSupport"
+                     Tac Bombers give +1A to Infantry and Mech Infantry on a 1:1 basis. Tac BombersC10 do not receive this ability.
+
+
+                      Category
+	      "More Units and Changes"
+
+                1) "Bunkers"
+                    Adds the Bunker unit. Bunkers are a A0 D3 M0 C5 2-hit unit. They require one of the following units for placement.Infantry:Militia:Elite:Marine:Mech Infantry. If damaged they also require one of the previous units to be present to repair.
+
+You may place a minimum of 1 Bunker per territory. If the TTy has a PU value you may place a total number of Bunkers = to the TTy value. May only place 1 Bunker per TTy per turn.
+
+UK Pacific is able to place Bunkers without the required units being present. This is unintended and is player enforced.
+
+It is recommende to wait until RD 3 to activate Bunkers. This prevents breaking early RD battles and represents the time needed to build fortifications.
+
+                 2) "BombersA3_GiveToAll"
+                     Bombers are now A3. They receive +1A when paired with Fighters on a 1:1 basis.
+
+                 3) "MilitaryBase_Produces_3inf
+		     MilitaryBases C12. May place in any TTy of 1 PU or less. Maximum of 1 Base per TTy. May receive up to 6 damage. Cannot place infantry if 3 or more damage. Has AA capability same as Factories.
+
+It will allow you to place up to 10 Infantry per base. This is not intended. 3 Infantry placed per turn is suggested use. This is player enforced.
+
+                 4) "TacticalBomberAirBattleD1"
+		     Gives Tactical Bombers the ability to intercept at D1. This is to help against AOC5 Bomber spam and represent Night Fighter Interceptors. May be used in conjunction with A2D2 Intercptors tech.
+                 
+ 
+			    
+                       
+
+	    
