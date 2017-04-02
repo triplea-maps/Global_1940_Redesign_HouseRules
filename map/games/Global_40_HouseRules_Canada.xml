@@ -6144,7 +6144,7 @@
       <option name="directOwnershipTerritories" value="Volgograd:Novgorod" count="each"/>
     </attachment>
 
-    <attachment name="objectiveAttachment_Russians_2_Spread_Of_Communism2" attachTo="Russians" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
+    <attachment name="objectiveAttachment_Russians_6_Spread_Of_Communism2" attachTo="Russians" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
       <option name="conditions" value="conditionAttachmentRussianNationalObjectives"/>
       <option name="objectiveValue" value="2"/>
       <option name="directOwnershipTerritories" value="Bulgaria:Finland:Greater Southern Germany:Slovakia Hungary:Western Germany:Romania:Poland:Germany:Norway:Denmark:Holland Belgium:Northern Italy:Southern Italy" count="each"/>
@@ -7725,7 +7725,7 @@
       <option name="directOwnershipTerritories" value="Algeria" count="1"/>
       <option name="invert" value="true"/>
     </attachment>
-    <attachment name="objectiveAttachment_Italians_3_North_Africa_Control" attachTo="Italians" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
+    <attachment name="objectiveAttachment_Italians_3_North_Africa" attachTo="Italians" javaClass="games.strategy.triplea.attachments.RulesAttachment" type="player">
       <option name="conditions" value="conditionAttachment_Italians_3_North_Africa_Control:conditionAttachment_Italians_Morocco_Not_Neutral_Axis:conditionAttachment_Italians_Algeria_Not_Neutral_Axis:conditionAttachment_Italians_Tunisia_Not_Neutral_Axis"/>
       <option name="objectiveValue" value="5"/>
     </attachment>
