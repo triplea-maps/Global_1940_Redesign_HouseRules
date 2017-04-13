@@ -22111,7 +22111,7 @@
     <property name="Neutral Flyover Allowed" value="false" editable="false">
       <boolean/>
     </property>
-    <property name="mapName" value="Global_40_HouseRules" editable="false"/>
+    <property name="mapName" value="Global_1940_Redesign_HouseRules" editable="false"/>
     <property name="notes">
       <value><![CDATA[  
 <div style="padding:10px;font-size:14px;background-color:white;text-align:justify;">
