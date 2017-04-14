@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE game SYSTEM "game.dtd">
 <game>
-  <info name="Global 40 HouseRules" version="1.3"/>
+  <info name="Global 1940 House Rules" version="1.3"/>
   <loader javaClass="games.strategy.triplea.TripleA"/>
-  <triplea minimumVersion="1.8"/>
+  <triplea minimumVersion="1.9"/>
   <diceSides value="6"/>
   <map>
     <!-- Full europe list:
@@ -13438,7 +13438,7 @@
     <property name="Neutral Flyover Allowed" value="false" editable="false">
       <boolean/>
     </property>
-    <property name="mapName" value="Global_1940_Redesign_HouseRules" editable="false"/>
+    <property name="mapName" value="global_1940_redesign_house_rules" editable="false"/>
     <property name="notes">
       <value><![CDATA[  
 <div style="padding:10px;font-size:14px;background-color:white;text-align:justify;">
